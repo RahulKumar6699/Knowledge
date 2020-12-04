@@ -1,0 +1,30 @@
+body{
+    background-color: #836060;
+}
+
+header{
+    background-color: rgb(207, 176, 135);
+    height: 70px;
+}
+a{
+    text-decoration: none;
+}
+#left-nav
+{
+    float:left;
+}
+#right-nav
+{
+    float:right;
+}
+ul li{
+    list-style-type:none;
+}
+#right-nav li{
+    display:inline-block;
+    margin:10px;
+}
+#footer
+{
+    clear:both;
+}
